@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a30ac5-c862-4dcb-bfa1-27410f013981" name="Changes" comment="base lists - 5/9 done">
-      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/02-Unique_list_merger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/03-details.py" afterDir="false" />
+    <list default="true" id="f6a30ac5-c862-4dcb-bfa1-27410f013981" name="Changes" comment="base lists - done&#10;lists methods - 1/8">
+      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/05-songs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p_2-03_-_lists_methods/04-party.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/04-party.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +35,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/BS/PycharmProjects/skillbox_v2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Сергали/PycharmProjects/skillbox_v2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.03-details">
+  <component name="RunManager" selected="Python.05-songs">
     <configuration name="01-scary_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-Unique_list_merger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/02-Unique_list_merger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/04-party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-details" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/03-details.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/05-songs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03-details" />
-        <item itemvalue="Python.02-Unique_list_merger" />
+        <item itemvalue="Python.05-songs" />
+        <item itemvalue="Python.04-party" />
         <item itemvalue="Python.01-scary_code" />
         <item itemvalue="Python.09-reverse_numbers" />
         <item itemvalue="Python.08-sorting" />
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727720781490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="base lists - done&#10;lists methods - 1/8">
+      <created>1727869861643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727869861643</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +202,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just functions - done" />
     <MESSAGE value="base lists - 5/9 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="base lists - 5/9 done" />
+    <MESSAGE value="base lists - done&#10;lists methods - 1/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="base lists - done&#10;lists methods - 1/8" />
   </component>
 </project>
