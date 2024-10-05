@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a30ac5-c862-4dcb-bfa1-27410f013981" name="Changes" comment="base lists - done&#10;lists methods - 1/8">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/06-rollers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/07-Counting_game.py" afterDir="false" />
+    <list default="true" id="f6a30ac5-c862-4dcb-bfa1-27410f013981" name="Changes" comment="base lists - done&#10;lists methods - 7/8">
+      <change afterPath="$PROJECT_DIR$/p_2-03_-_lists_methods/08-simmetrical_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_2-04_-_list_comprehension/01-glasnye_bukvy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_2-04_-_list_comprehension/02-generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p_2-04_-_list_comprehension/03-random_competitions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +41,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.07-Counting_game">
-    <configuration name="01-scary_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03-random_competitions">
+    <configuration name="01-glasnye_bukvy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-03_-_lists_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-04_-_list_comprehension" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/01-scary_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-04_-_list_comprehension/01-glasnye_bukvy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-03_-_lists_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-04_-_list_comprehension" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/04-party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-04_-_list_comprehension/02-generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-random_competitions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="skillbox_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,32 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-03_-_lists_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-04_-_list_comprehension" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/05-songs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06-rollers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="skillbox_v2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-03_-_lists_methods" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/06-rollers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-04_-_list_comprehension/03-random_competitions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,13 +126,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08-simmetrical_seq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="skillbox_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p_2-03_-_lists_methods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p_2-03_-_lists_methods/08-simmetrical_seq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03-random_competitions" />
+        <item itemvalue="Python.02-generation" />
+        <item itemvalue="Python.01-glasnye_bukvy" />
+        <item itemvalue="Python.08-simmetrical_seq" />
         <item itemvalue="Python.07-Counting_game" />
-        <item itemvalue="Python.06-rollers" />
-        <item itemvalue="Python.05-songs" />
-        <item itemvalue="Python.04-party" />
-        <item itemvalue="Python.01-scary_code" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727869861643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="base lists - done&#10;lists methods - 7/8">
+      <created>1727979468803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727979468803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +212,7 @@
     <MESSAGE value="just functions - done" />
     <MESSAGE value="base lists - 5/9 done" />
     <MESSAGE value="base lists - done&#10;lists methods - 1/8" />
-    <option name="LAST_COMMIT_MESSAGE" value="base lists - done&#10;lists methods - 1/8" />
+    <MESSAGE value="base lists - done&#10;lists methods - 7/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="base lists - done&#10;lists methods - 7/8" />
   </component>
 </project>
