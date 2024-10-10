@@ -1,12 +1,14 @@
-stroka = 'я есть строка'
+stroka = 'я есть самаясамая большая строка в этом тексте'
 stroka_list = stroka.split()
-result = []
-for word in stroka.split():
-    count = 0
-    for bukva in word:
-        count += 1
-    result.append(count)
-# print(f'Самое длинное слово: {}')
+print('stroka_list', stroka_list)
 
-print(result)
-print(max(result))
+count = 0
+result = ''
+for word in stroka_list:
+
+    if len(word) > count:
+        count = len(word)
+        result = word
+
+print('Самое длинное слово:', result)
+print('Длина слова:', len(result))
