@@ -1,4 +1,5 @@
 stroka = 'я есть самаясамая большая строка в этом тексте'
+# stroka = str(input('Введите текст: '))
 stroka_list = stroka.split()
 print('stroka_list', stroka_list)
 
