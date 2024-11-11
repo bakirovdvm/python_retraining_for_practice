@@ -31,7 +31,7 @@ for folder in os.listdir(folder_path):
     file_count += 1
 
 print(f'Ваша путь до папки: {os.path.abspath(folder_path)}')
-print(f'Размер каталога: {file_size}')
+print(f'Размер каталога: {file_size} байта')
 print(f'Количество файлов: {file_count}')
 
 
