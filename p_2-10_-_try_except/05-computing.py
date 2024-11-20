@@ -54,3 +54,4 @@ if result is not None:
 sq_numb(16)
 sq_numb(-16)
 sq_numb('abc')
+
