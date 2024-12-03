@@ -1,34 +1,3 @@
-# class Parent:
-#     def __init__(self, name, age, children_list):
-#         self.name = name
-#         self.age = age
-#         self.children_list = children_list
-#
-#     def print_info(self):
-#         print('my name is {}, \n my age is {}, \nmy children: {}'.format(self.name,
-#                                                                          self.age,
-#                                                                          self.children_list))
-#
-#
-#     def calm_Child(self):
-#         Child.calm = True
-#
-#
-#     def fed_child(self):
-#         Child.hungry = False
-#
-#
-# class Child:
-#     calm = False
-#     hungry = True
-#
-#     def __init__(self, name, age):
-#         self.name = name
-#         self.age = age
-#         # self.calm = True
-#         # self.hungry = True
-#
-
 class Parent:
     def __init__(self, name, age, child_quantity):
         self.name = name
